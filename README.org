@@ -2,3 +2,6 @@
 #+startup: indent
 
 * teaching
+** chemistry
+** physics
+
