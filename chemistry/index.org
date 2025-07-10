@@ -1,1 +1,14 @@
 #+title: chemistry
+#+startup: indent num
+
+* atoms, isotopes, and ions
+* atomic models and perioicity
+* chemical bonding
+* chemical reactions
+* stoichiometry and the mole
+* states of matter
+* thermochemistry
+* solutions, acids, bases
+* reaction rates and equilibrium
+* nuclear chemistry
+* organic chemistry

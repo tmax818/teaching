@@ -2,6 +2,6 @@
 #+startup: indent
 
 * teaching
-** chemistry
-** physics
+** [[./chemistry/index.org][chemistry]]
+** [[./physics/index.org][physics]]
 

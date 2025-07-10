@@ -1,2 +1,12 @@
 #+title: physics
+#+startup: indent num
 
+
+* motion and forces
+* force pairs and momentum
+* gravitation
+* electrostatics
+* energy
+* electromagnetics
+* electromagnetic radiation
+* nuclear physics

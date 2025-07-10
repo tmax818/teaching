@@ -1,0 +1,3 @@
+#+title: general notes
+
+- [[./framework_text.org][framework_text]]
