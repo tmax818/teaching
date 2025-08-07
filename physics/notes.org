@@ -1,0 +1,30 @@
+#+title: Notes
+#+author: Mr. Maxwell
+#+startup: indent
+#+bibliography: bibliography.bib
+
+
+
+"Science and engineering are based on measurements and comparisons." [cite:@FoP p. 1]
+
+* Measurement                                                      :unit 1:
+
+** SI units
+
+#+NAME: eqn:1.1
+\begin{equation}
+    1 \; watt = 1\; W = 1 \; kg \cdot m^2/s^3
+\end{equation}
+
+*** length
+
+The meter is defined as the distance traveled by light during a precisely specified time interval.
+
+*** time
+
+*** mass
+
+*** test
+
+[[eqn:1.1]]
+

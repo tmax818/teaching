@@ -1,0 +1,15 @@
+#+title: journal.org
+#+startup: indent
+
+
+* <2025-08-06 Wed>
+
+** EDI explicit direct instruction :pd:
+
+*** use whiteboards and a signlanguage like system for remembering vocabulary
+
+*** use formal register and enunciate when teaching
+
+*** 7 items/hr max
+
+*** students do two-three things per minute

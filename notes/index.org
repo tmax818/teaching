@@ -1,3 +1,13 @@
 #+title: general notes
 
 - [[./framework_text.org][framework_text]]
+
+
+- start both classes in the same place, ie measurement, careers etc.
+- 3d print a cm\sup3
+  
+
+
+* the plan
+
+

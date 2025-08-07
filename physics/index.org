@@ -1,7 +1,10 @@
 #+title: physics
 #+startup: indent num
 
-
+* unit analysis
+- [[https://youtu.be/K2J5ED-F67Q][unit analysis video(Holden)]]
+  - How fast are you traveling if you travel fifteen meters in five seconds?
+    - worksheet is cool
 * motion and forces
 * force pairs and momentum
 * gravitation
