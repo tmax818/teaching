@@ -5,3 +5,4 @@
 ** [[./chemistry/index.org][chemistry]]
 ** [[./physics/index.org][physics]]
 
+mac push
