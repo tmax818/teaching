@@ -1,0 +1,8 @@
+#+title: week one
+#+startup: indent
+
+
+
+** Week One
+*** 002 <2025-08-14 Thu>
+*** 003 <2025-08-15 Fri>
