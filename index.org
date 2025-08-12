@@ -1,0 +1,8 @@
+#+title: teaching
+#+author: Mr. Maxwell
+#+startup: indent num
+
+
+* chemistry
+
+* physics

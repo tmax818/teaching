@@ -1,0 +1,17 @@
+#+title: Chemistry Syllabus
+#+author: Mr. Maxwell
+#+startup: num indent
+
+* Course Information
+| *course*       | Chemistry AB |
+| *prerequisite* | Algebra 1 AB |
+| *corequisite*  | Geometry AB  |
+* Instructor Information
+| *name*         | Mr. Maxwell(aka Mr. M)  |
+| *email*        | tyler.maxwell@lausd.net |
+| *room*         | E305                    |
+| *office hours* | TBD                     |
+* Course Description
+* Course Objective
+* Textbook and Materials
+* Classroom Expectations/Procedures

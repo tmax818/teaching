@@ -1,0 +1,58 @@
+#+title: curriculum map
+#+startup: num
+#+LATEX_HEADER:\usepackage{exsheets}
+#+LATEX_HEADER:\usepackage{subfiles}
+
+* Math for Chemistry
+
+** Mathematics Review
+
+*** Laws of exponents
+
+$$10^a \times 10^b = 10^{a+b}$$
+
+** Measurement
+
+| quantity             | name | abbrev |
+| length               |      |        |
+| mass                 |      |        |
+| time                 |      |        |
+| amount(of substance) |      |        |
+| temperature          |      |        |
+| electric current     |      |        |
+| luminous intensity   |      |        |
+|                      |      |        |
+
+| factor  | prefix | the long way | abbrev |
+| 10^{18} | exa    |              | E      |
+| 10^{15} | peta   |              | P      |
+| 10^{12} | tera   |              | T      |
+| 10^9    | giga   |              | G      |
+| 10^6    | mega   |              | M      |
+
+** Base and Derived Units
+
+** Tools for measurement
+
+** Rules of Sig Figs
+
+*** practice
+
+\subfile{sections/introduction}
+
+
+
+* Matter and Nomenclature
+* Chemical Reactions
+* Stoichiometry and the Mole
+* Atomic Structure and Light
+* The Periodic Table
+* Bonding and Lewis Structure
+* Gases
+* Kenetics
+* Equilibrium
+* Acids and Bases
+* Thermodynamics
+* Electrochemistry
+* Organic Chemistry
+* Nuclear Chemistry

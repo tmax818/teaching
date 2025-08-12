@@ -1,0 +1,18 @@
+#+title: TLAC
+#+startup: num indent
+
+* principles
+
+** understanding human cognitive structure means building long-term memory and managing working memory
+
+** habits accelerate learning
+
+** what students attend to is what they will learn about
+
+** 
+
+* techniques
+
+** exemplar planning
+
+** plan for error

@@ -1,0 +1,26 @@
+#+title: Teaching
+#+startup: indent
+
+
+| First Semester     | Dates            |
+|--------------------+------------------|
+| week 0             | <2025-08-14 Thu> |
+| week 1             | <2025-08-18 Mon> |
+| week 2             | <2025-08-25 Mon> |
+| week 3             | <2025-09-02 Tue> |
+| week 4             | <2025-09-08 Mon> |
+| week 5             | <2025-09-15 Mon> |
+| week 6             | <2025-09-22 Mon> |
+| week 7             | <2025-09-29 Mon> |
+| week 8             | <2025-10-06 Mon> |
+| week 9             | <2025-10-13 Mon> |
+| week 10            | <2025-10-20 Mon> |
+| week 11            | <2025-10-27 Mon> |
+| week 12            | <2025-11-03 Mon> |
+| week 13            | <2025-11-10 Mon> |
+| week 14            | <2025-11-17 Mon> |
+| THANKSGIVING BREAK | <2025-11-24 Mon> |
+| week 15            | <2025-12-01 Mon> |
+| week 16            | <2025-12-08 Mon> |
+| week 17 FINALS     | <2025-12-15 Mon> |
+

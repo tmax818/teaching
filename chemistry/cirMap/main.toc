@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Math for Chemistry}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Mathematics Review}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Laws of exponents}{2}{subsubsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.2}Measurement}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Base and Derived Units}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Tools for measurement}{2}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Rules of Sig Figs}{2}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}practice}{2}{subsubsection.1.5.1}%
+\contentsline {section}{\numberline {2}Matter and Nomenclature}{4}{section.2}%
+\contentsline {section}{\numberline {3}Chemical Reactions}{4}{section.3}%
+\contentsline {section}{\numberline {4}Stoichiometry and the Mole}{4}{section.4}%
+\contentsline {section}{\numberline {5}Atomic Structure and Light}{4}{section.5}%
+\contentsline {section}{\numberline {6}The Periodic Table}{4}{section.6}%
+\contentsline {section}{\numberline {7}Bonding and Lewis Structure}{4}{section.7}%
+\contentsline {section}{\numberline {8}Gases}{4}{section.8}%
+\contentsline {section}{\numberline {9}Kenetics}{4}{section.9}%
+\contentsline {section}{\numberline {10}Equilibrium}{4}{section.10}%
+\contentsline {section}{\numberline {11}Acids and Bases}{4}{section.11}%
+\contentsline {section}{\numberline {12}Thermodynamics}{4}{section.12}%
+\contentsline {section}{\numberline {13}Electrochemistry}{4}{section.13}%
+\contentsline {section}{\numberline {14}Organic Chemistry}{4}{section.14}%
+\contentsline {section}{\numberline {15}Nuclear Chemistry}{4}{section.15}%

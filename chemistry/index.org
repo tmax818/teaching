@@ -1,0 +1,51 @@
+#+title: chemistry
+#+startup: indent num
+
+* First Semester
+
+| Week             | Unit | Topics                  | Labs                                  |
+|------------------+------+-------------------------+---------------------------------------|
+| <2025-08-14 Thu> |    1 | Observation Skills      | Density of Water                      |
+| <2025-08-18 Mon> |    1 | Metrics/Density         | Density                               |
+| <2025-08-25 Mon> |    1 | Math                    | Aluminium Foil                        |
+| <2025-09-02 Tue> |    2 | Properties/Change       | Chemical Change/Mixtures Activity     |
+| <2025-09-08 Mon> |    2 | Formulas/Nomenclature   | Chromatography                        |
+| <2025-09-15 Mon> |    2 | Nomenclature            | Ionic Formulas                        |
+| <2025-09-22 Mon> |    3 | Equation Writing        | Balancing with Models/Activity Series |
+| <2025-09-29 Mon> |    3 | Precipitation Reactions | Johnstones Triangle/Precipitation     |
+| <2025-10-06 Mon> |    4 | Moles                   | Counting Atoms                        |
+| <2025-10-13 Mon> |    4 | Formula Problems        | Iron and Copper                       |
+| <2025-10-20 Mon> |    4 | Stoichiometry           | Stoichiometry                         |
+| <2025-10-27 Mon> |    4 | Stoichiometry           | Excess Reactants/Hydrates             |
+| <2025-11-03 Mon> |    5 | Atomic Structure        | Abundance of Isotopes                 |
+| <2025-11-10 Mon> |    5 | Light                   | Hydrogen Spectrum                     |
+| <2025-11-17 Mon> |    6 | Periodic Table          | Elements Lab                          |
+| <2025-11-24 Mon> |  N/A | THANKSGIVING BREAK      | THANKSGIVING BREAK                    |
+| <2025-12-01 Mon> |    6 | Periodic Table          | Periodic Videos                       |
+| <2025-12-08 Mon> |  1-7 | Final Review            |                                       |
+| <2025-12-15 Mon> |  1-7 | Finals                  |                                       |
+
+* Second Semester
+
+| Week | Unit | Topics                   | Labs                      |
+|------+------+--------------------------+---------------------------|
+| 1/8  |    8 | Moles                    | Counting Atoms.           |
+| 1/15 |    8 | Moles                    | Formula of a Hydrate      |
+| 1/22 |    9 | Stoichiometry            | Mole Ratio Lab            |
+| 1/29 |    9 | Stoichiometry            | Stoichiometry             |
+| 2/5  |    9 | Stoichiometry            | Excess Reactant           |
+| 2/12 |   10 | Rates of Reaction        | Reaction Rates            |
+| 2/19 |   10 | Kinetics                 | Iodine Clock              |
+| 2/26 |   11 | Gases                    | Boyle's Law               |
+| 3/5  |   11 | Gases                    | Chemical Properties Gases |
+| 3/12 |   12 | Chemical Equilibrium     | LeChatelier's Principle   |
+| 3/19 |   12 | Mathematical Equilibrium | None                      |
+| 4/2  |   13 | Acid/Base Properties     | pH Lab                    |
+| 4/9  |   13 | pH                       | Microtitration            |
+| 4/16 |   14 | Thermochemistry          | Heating Curve             |
+| 4/23 |   14 | Thermodynamics           | Heat of Fusion            |
+| 4/30 |   15 | Redox Reactions          | Redox Agents              |
+| 5/7  |   15 | Electrochemical Cells    | Cell Lab                  |
+| 5/14 |   16 | Functional Groups, Names | Organic Compounds         |
+| 5/21 |   16 | Organic Reactions        | Organic Isomers           |
+| 5/28 |   17 | Nuclear Chemistry        | Radiation Lab             |
